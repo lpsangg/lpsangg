@@ -13,20 +13,6 @@
 
 ---
 
-## 🚀 Highlight Projects
-
-### **Visually-Grounded Document Q&A Assistant**
-A solution for data extraction and natural question answering on document images.  
-🔗 [GitHub: lpsangg](https://github.com/lpsangg)
-
-### **Intelligent Scene Narrator & Summarizer**
-Analyzes images/videos, automatically generates descriptions & answers questions in natural language.
-
-### **Visual Coding Tutor**
-Application for code recognition and explanation from images/optical sources, assisting students and coders.
-
----
-
 ## ✨ Bio / Tagline
 
 Passionate about multimodal AI — integrating Computer Vision & Natural Language Processing to solve real-world problems. Continuously learning new technologies, aiming to build intelligent products with meaningful social impact.

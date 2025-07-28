@@ -21,7 +21,7 @@ Passionate about multimodal AI — integrating Computer Vision & Natural Languag
 
 ## 🌐 Social Links
 
-- 🔗 [Portfolio: Nas's Portfolio](#)  
+- 🔗 [Portfolio: Nas's Portfolio](https://lpsangg.github.io/lpsang/)  
 - 🐙 [GitHub: lpsangg](https://github.com/lpsangg)  
 - 💼 [LinkedIn: Phuoc Sang Le](https://www.linkedin.com/in/lpsang/)
 

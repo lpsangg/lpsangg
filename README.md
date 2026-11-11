@@ -1,6 +1,6 @@
 # LÊ PHƯỚC SANG (lpsangg)
 
-### AI/ML | Aspiring Junior/Mid-level AI Engineer
+### AI/ML Engineer | Aspiring Junior/Mid-level AI Engineer
 
 ---
 

@@ -6,24 +6,22 @@
 
 *Building end-to-end intelligent systems — bridging Computer Vision, GenAI/VLMs, MLOps, and modern Web interfaces.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-www.lpsang.id.vn-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.lpsang.id.vn/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lpsang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lpsang/)
-[![Email](https://img.shields.io/badge/Email-lpsang.nas%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lpsang.nas@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-www.lpsang.id.vn-10B981?style=flat-square&labelColor=18181B)](https://www.lpsang.id.vn/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2Fin%2Flpsang-27272A?style=flat-square&labelColor=18181B)](https://www.linkedin.com/in/lpsang/)
+[![Email](https://img.shields.io/badge/Email-lpsang.nas%40gmail.com-27272A?style=flat-square&labelColor=18181B)](mailto:lpsang.nas@gmail.com)
 
 </div>
 
 ---
 
-## 👋 About Me
+## 01 · About
 
-- 🎓 **BSc in Computer Science** — Can Tho University of Technology (CTUET) · **GPA: 3.49 / 4.0** *(Excellence Award)*
-- 🧠 **Focus Areas:** Real-time **Computer Vision** (`YOLOv8`, `DeepSort`, `OpenCV`), **GenAI & VLM Systems** (`Gemini 2.5`, `Qwen2.5-VL`, `LangChain`, `MS Copilot Studio`), and production **MLOps & Web** (`FastAPI`, `Docker`, `CI/CD`, `React 19`, `Next.js`).
-- 💡 **Philosophy:** *"Let AI make life simple — don't overcomplicate it!"*
-- 📫 **Open to:** AI/ML Engineer & Fullstack AI Product roles.
+- **Education:** BSc in Computer Science — Can Tho University of Technology (CTUET) · GPA `3.49 / 4.0` *(Excellence Award)*
+- **Focus Areas:** Real-time **Computer Vision** (`YOLOv8`, `DeepSort`, `OpenCV`), **GenAI & VLM Systems** (`Gemini 2.5`, `Qwen2.5-VL`, `LangChain`, `MS Copilot Studio`), and production **MLOps & Web** (`FastAPI`, `Docker`, `CI/CD`, `React 19`, `Next.js`)
+- **Philosophy:** *"Let AI make life simple — don't overcomplicate it."*
+- **Availability:** Open to AI/ML Engineer & Fullstack AI Product roles
 
----
-
-## 🛠️ Tech Stack
+## 02 · Tech Stack
 
 <div align="center">
 
@@ -38,18 +36,14 @@
 | **Backend & MLOps** | `Python`, `FastAPI`, `Flask`, `Docker`, `GitHub Actions CI/CD`, `SQL Server`, `PostgreSQL` |
 | **Frontend & Product UI** | `React 19`, `Next.js`, `TanStack Start`, `TypeScript`, `Tailwind CSS`, `Framer Motion` |
 
----
-
-## 💼 Experience
+## 03 · Experience
 
 **AI / IT Intern** — *Petrovietnam Ca Mau Fertilizer Corporation (PVCFC)* · `06/2025 – 08/2025` *(Onsite)*
 - **AI Legal Agent Automation:** Architected and deployed an internal Legal QA Chatbot on **Microsoft Copilot Studio**, reducing policy query response time by **70%**.
 - **RBI Database Optimization:** Refactored complex SQL queries for the Risk-Based Inspection (RBI) plant safety management system, achieving a **40% query speedup**.
 - **Enterprise Data & ERP:** Collaborated with plant engineers and DBAs on **ERP**, **Data Warehouse**, and **Data Lake** workflows for industrial analytics.
 
----
-
-## 🚀 Featured Projects
+## 04 · Selected Projects
 
 | Project | Stack | Key Impact | Links |
 | :--- | :--- | :--- | :--- |
@@ -59,24 +53,20 @@
 | **Fertilizer Classification** | `YOLOv8` · `DeepSort` · `Python` · `OpenCV` | Real-time conveyor belt detection & tracking (`~92%` mAP, `30+ FPS`, CTU Encouragement Award) | [Repo](https://github.com/lpsangg/Ca-Mau-Fertilizer-Classification) · [Demo](https://youtube.com/shorts/3PrD-xn-jL0) |
 | **Speaker Recognition** | `MFCC` · `LSTM` · `PyTorch` · `Flask` | Voice biometrics extracting 40-dim MFCC voiceprints (`< 0.5s` verification) | [Repo](https://github.com/lpsangg/Speaker-Recognition-) |
 
----
-
-## 📜 Certifications
+## 05 · Certifications
 
 - **Google AI Essentials** — *Google / Coursera* (`Aug 2025`) · [Verify](https://coursera.org/verify/specialization/UJW4YG3NV3HD)
 - **Google Prompting Essentials** — *Google / Coursera* (`Aug 2025`) · [Verify](https://coursera.org/verify/specialization/8ZFI6MR6JYYK)
 - **Google Agile Essentials** — *Google / Coursera* (`Jul 2025`) · [Verify](https://coursera.org/verify/ZK36NDAF5DWD)
 - **Foundations of Project Management** — *Google / Coursera* (`Apr 2024`) · [Verify](https://coursera.org/verify/JFC9KLJ27H6N)
 
----
+## 06 · GitHub Activity
 
-## 📊 GitHub Activity
-
-> 🔧 **R&D / Daily Work / Internal Projects:** Most day-to-day R&D and private internal engineering work runs on my secondary account **[@lpsangnas1-boop](https://github.com/lpsangnas1-boop)** — this profile (`@lpsangg`) serves as my main public portfolio and showcase.
+> **R&D & Daily Engineering:** Most day-to-day R&D and private internal engineering work runs on my secondary account **[@lpsangnas1-boop](https://github.com/lpsangnas1-boop)** — this profile (**@lpsangg**) serves as my main public portfolio and showcase.
 
 <div align="center">
 
-[![R&D & Daily Work Account](https://img.shields.io/badge/R%26D%20%26%20Daily%20Work-%40lpsangnas1--boop-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lpsangnas1-boop)
+[![R&D & Daily Work Account](https://img.shields.io/badge/R%26D%20%26%20Daily%20Work-%40lpsangnas1--boop-27272A?style=flat-square&labelColor=18181B&logo=github&logoColor=10B981)](https://github.com/lpsangnas1-boop)
 
 <br />
 

@@ -70,9 +70,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
+
+> 🔧 **R&D / Daily Work / Internal Projects:** Most day-to-day R&D and private internal engineering work runs on my secondary account **[@lpsangnas1-boop](https://github.com/lpsangnas1-boop)** — this profile (`@lpsangg`) serves as my main public portfolio and showcase.
 
 <div align="center">
+
+[![R&D & Daily Work Account](https://img.shields.io/badge/R%26D%20%26%20Daily%20Work-%40lpsangnas1--boop-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lpsangnas1-boop)
+
+<br />
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lpsangg&show_icons=true&hide_border=true&title_color=10B981&icon_color=10B981&text_color=71717A&bg_color=00000000" alt="lpsangg GitHub Stats" />
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpsangg&layout=compact&hide_border=true&title_color=10B981&text_color=71717A&bg_color=00000000" alt="Top Languages" />
